@@ -7,20 +7,23 @@
    > How to sort your data
    > How to group data by category
 
-2. Matplotlin Exercises
+2. Matplotlib Exercises
+   > Creating plots from equations
+   > Creating plots from data points
    
 4. Pandas Project Exercise
+   > 
    
-5. Google Play Store App Analytics
+6. Google Play Store App Analytics
 
-6. Computation with NumPy and n-dimensional arrays.
+7. Computation with NumPy and n-dimensional arrays.
    > Analyse the shape and dimensions of a ndarray
    > Slice and subset a ndarray based on its indices
    > Do linear algebra like operations with scalars and matrix multiplication
    > Use NumPys broadcasting to make ndarray shapes compatible
    > Manipulate images in the form of ndarrays
 
-7. Seaborn and Linear Regression on Movie budgets and Revenue data
+8. Seaborn and Linear Regression on Movie budgets and Revenue data
    > Remove unwanted characters from multiple columns
    > Filter Pandas DataFrames based on multiple conditions using both .loc[] and .query()
    > Create bubble charts using the Seaborn Library
