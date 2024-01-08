@@ -12,7 +12,14 @@
    > Creating plots from data points
    
 3. Pandas Project Exercise
-   > 
+   > Working with Dataframes columns and rows
+   > Conditional Filtering
+   > Apply method
+   > Pandas Operations
+   > Hierarchical indexing
+   > Merging types
+   > Input and output
+   > Pivot Tables
    
 4. Google Play Store App Analytics
 
