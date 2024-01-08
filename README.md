@@ -7,7 +7,32 @@
    > How to sort your data
    > How to group data by category
 
-8. Analysing a dataset on the past winners of the Nobel Prize.
+2. Matplotlin Exercises
+   
+4. Pandas Project Exercise
+   
+5. Google Play Store App Analytics
+
+6. Computation with NumPy and n-dimensional arrays.
+   > Analyse the shape and dimensions of a ndarray
+   > Slice and subset a ndarray based on its indices
+   > Do linear algebra like operations with scalars and matrix multiplication
+   > Use NumPys broadcasting to make ndarray shapes compatible
+   > Manipulate images in the form of ndarrays
+
+7. Seaborn and Linear Regression
+
+8. Google Trends Data on Movie budgets and Revenue data - Linear Regression and Data Visualisation with Seaborn
+   > Use nested loops to remove unwanted characters from multiple columns
+   > Filter Pandas DataFrames based on multiple conditions using both .loc[] and .query()
+   > Create bubble charts using the Seaborn Library
+   > Style Seaborn charts using the pre-built styles and by modifying Matplotlib parameters
+   > Use floor division (i.e., integer division) to convert years to decades
+   > Use Seaborn to superimpose a linear regressions over our data
+   > Make a judgement if our regression is good or bad based on how well the model fits our data and the r-squared metric
+   > Run regressions with scikit-learn and calculate the coefficients. 
+
+9. Analysing a dataset on the past winners of the Nobel Prize - with Plotly, Matplotlib and Seaborn
    > Create a Choropleth to display data on a map.
    > Create bar charts showing different segments of the data with plotly.
    > Create Sunburst charts with plotly.
