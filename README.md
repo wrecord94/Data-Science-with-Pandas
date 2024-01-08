@@ -20,10 +20,8 @@
    > Use NumPys broadcasting to make ndarray shapes compatible
    > Manipulate images in the form of ndarrays
 
-7. Seaborn and Linear Regression
-
-8. Google Trends Data on Movie budgets and Revenue data - Linear Regression and Data Visualisation with Seaborn
-   > Use nested loops to remove unwanted characters from multiple columns
+7. Seaborn and Linear Regression on Movie budgets and Revenue data
+   > Remove unwanted characters from multiple columns
    > Filter Pandas DataFrames based on multiple conditions using both .loc[] and .query()
    > Create bubble charts using the Seaborn Library
    > Style Seaborn charts using the pre-built styles and by modifying Matplotlib parameters
@@ -32,7 +30,10 @@
    > Make a judgement if our regression is good or bad based on how well the model fits our data and the r-squared metric
    > Run regressions with scikit-learn and calculate the coefficients. 
 
-9. Analysing a dataset on the past winners of the Nobel Prize - with Plotly, Matplotlib and Seaborn
+9. Google Trends Data
+  
+
+10. Analysing a dataset on the past winners of the Nobel Prize - with Plotly, Matplotlib and Seaborn
    > Create a Choropleth to display data on a map.
    > Create bar charts showing different segments of the data with plotly.
    > Create Sunburst charts with plotly.
