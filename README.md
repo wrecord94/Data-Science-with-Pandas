@@ -49,4 +49,13 @@
    > Create Sunburst charts with plotly.
    > Use Seaborn's .lmplot() and show best-fit lines across multiple categories using the row, hue, and lowess parameters.
    > Understand how a different picture emerges when looking at the same data in different ways (e.g., box plots vs a time series analysis).
-   > See the distribution of our data and visualise descriptive statistics with the help of a histogram in Seaborn. 
+   > See the distribution of our data and visualise descriptive statistics with the help of a histogram in Seaborn.
+
+9. Using Dr Semmelweis's 1800's investigation into why so many women in maternity wards were dying from childbed fever to:
+    > Make a compelling argument using data
+    > Superimpose histograms to show differences in distributions
+    > Use a Kernel Density Estimate (KDE) to show a graphic estimate of a distribution.
+    > Use scipy and test for statistical significance by looking at p-values.
+    > Highlight different parts of a time series chart in Matplotib.
+    > Add and configure a Legend in Matplotlib.
+    > Use NumPy's .where() function to process elements depending on a condition.
